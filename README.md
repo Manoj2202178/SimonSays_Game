@@ -4,8 +4,7 @@ A simple Simon Says game built using HTML, CSS, and JavaScript.
 
 ## Features
 - Interactive gameplay
-- Keyboard input
-- Increasing difficulty levels
+- Keyboard & Mouse input
 
 ## Technologies Used
 - HTML
