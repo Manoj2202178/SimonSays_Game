@@ -16,5 +16,5 @@ A simple Simon Says game built using HTML, CSS, and JavaScript.
 2. Follow the color sequence
 3. Game ends on wrong input
 
-## Live Demo
+## Live Website
 https://simonsays-game-dx2e.onrender.com
